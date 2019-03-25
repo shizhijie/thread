@@ -1,4 +1,4 @@
-package com.zjs.bwcx.reentrantlock;
+package com.zjs.bwcx.reentrantlock.test1;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

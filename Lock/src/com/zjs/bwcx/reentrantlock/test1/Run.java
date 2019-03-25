@@ -1,4 +1,4 @@
-package com.zjs.bwcx.reentrantlock;
+package com.zjs.bwcx.reentrantlock.test1;
 
 public class Run {
 	public static void main(String[] args) {
